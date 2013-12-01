@@ -15,4 +15,4 @@ angular.module('nqApiApp', [
       .otherwise({
         redirectTo: '/'
       });
-  });
+  }).constant('API_ROOT', 'http://api.niqu.me/');
