@@ -1,6 +1,8 @@
 nqApi
 =====
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zhuangya/nqApi.svg)](https://greenkeeper.io/)
+
 the api.niqu.me wrapper in angular.
 
 this project was build by [yeoman](http://yeoman.io) and [angular generator](https://github.com/yeoman/generator-angular), so read those documentation first if any problem bubbled.
